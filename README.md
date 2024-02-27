@@ -24,7 +24,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,redux,ts,express,threejs,html,css,tailwind,sass,jest,electron" />
-    <img src="https://skillicons.dev/icons?i=webpack,mongodb,vite,postgres,py,c,cpp,r,regex,vscode,github,git,replit,discord,postman" />
+    <img src="https://skillicons.dev/icons?i=webpack,mongodb,postgres,postman,vite,py,c,cpp,r,regex,vscode,github,git,replit,discord" />
 
 </div>
 
