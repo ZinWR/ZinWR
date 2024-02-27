@@ -20,3 +20,7 @@
 
 <br/>
 
+<details>
+ <summary><h3>👨‍💻 Quan's Coding Journey</h3></summary>
+   I started my coding journey as a Biochemistry & Molecular Biology student at the University of California, Davis. I took a few intro coding classes such as Python, C, and C++ during my freshman year. I later got super busy with the workload of my major so I stopped coding all at once. Later, after graduation, COVID-19 hit and I had to move back to Texas to take care of my family and grandmother. 
+   Afterward, I became an online content creator on Twitch and YouTube for a few years. I started to self-taught myself coding again but I was not learning a lot from it. After a while, I decided to attend CodeSmith, a prestige coding boot-camp, and started to learn and build full-stack projects. (More to come!)
