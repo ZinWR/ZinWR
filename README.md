@@ -18,6 +18,14 @@
   </a>
 </div>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Open Source Project**
+ 
+ 🌱 I’m currently learning **TBD**
+
+ </div>
+
 <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
