@@ -20,6 +20,14 @@
 
 <br/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,react,redux,ts,express,threejs,html,css,tailwind,sass,jest,electron" />
+    <img src="https://skillicons.dev/icons?i=webpack,mongodb,vite,postgres,py,c,cpp,r,regex,vscode,github,git,replit,discord,postman" />
+
+</div>
+
 <details>
  <summary><h3>👨‍💻 Quan's Coding Journey</h3></summary>
    I started my coding journey as a Biochemistry & Molecular Biology student at the University of California, Davis. I took a few intro coding classes such as Python, C, and C++ during my freshman year. I later got super busy with the workload of my major so I stopped coding all at once. Later, after graduation, COVID-19 hit and I had to move back to Texas to take care of my family and grandmother. 
