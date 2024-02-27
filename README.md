@@ -20,8 +20,6 @@
 
 <br/>
 
-[![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinWR)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
