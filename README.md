@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZinWR.ZinWR" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=F75158&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Quan+Nguyen!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=F75158&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Quan+Nguyen!;" />
 </h1>
 
 <h3 align="center">A passionate content creator turned full stack software developer</h3>
