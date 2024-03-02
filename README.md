@@ -22,9 +22,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Open Source Project**
+ 🔭 I’m currently working on **Docketeer - An Open Source Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics**
  
- 🌱 I’m currently learning **TBD**
+ 🌱 I’m currently learning **Docker, Kubernetes, Prometheus, Grafana**
 
  </div>
 
