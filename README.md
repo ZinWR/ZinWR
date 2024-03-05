@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,react,redux,ts,threejs,html,css,tailwind,sass,d3,materialui,electron" />
     <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,redis,postman,webpack,vite,py,c,cpp" />
     <p>DevOps - Testing</p>
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,prometheus,grafana,electron,jest" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,prometheus,grafana,jest" />
 </div>
 
 <div align="center">
