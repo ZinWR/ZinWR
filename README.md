@@ -33,9 +33,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,redux,ts,express,threejs,html,css,tailwind,sass,jest,electron" />
-    <img src="https://skillicons.dev/icons?i=webpack,mongodb,postgres,postman,vite,py,c,cpp,r,regex,vscode,github,git,replit,discord" />
-
+    <p>FronEnd - BackEnd</p>
+    <img src="https://skillicons.dev/icons?i=javascript,react,redux,ts,threejs,html,css,tailwind,sass,d3,materialui,electron" />
+    <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,redis,postman,webpack,vite,py,c,cpp" />
+    <p>DevOps - Testing</p>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,prometheus,grafana,electron,jest" />
 </div>
 
 <div align="center">
