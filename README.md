@@ -22,9 +22,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Docketeer - An Open Source Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics**
+ 🔭 I’m currently working on **JobTracker full stack project with Jotai state management tool & 3D-Ecommerce-AI website as a side project**
  
- 🌱 I’m currently learning **Docker, Kubernetes, Prometheus, Grafana**
+ 🌱 I’m currently learning **React-Three-Fiber, Threejs, and some AI tech**
 
  </div>
 
