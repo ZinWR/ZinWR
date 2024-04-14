@@ -22,9 +22,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **JobTracker full stack project with Jotai state management tool & 3D-Ecommerce-AI website as a side project**
+ 🔭 I’m currently working on ** 3D-Ecommerce-AI website as a side project**
  
- 🌱 I’m currently learning **React-Three-Fiber, Threejs, and some AI tech**
+ 🌱 I’m currently learning **React-Three-Fiber and OpenAI**
 
  </div>
 
