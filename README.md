@@ -22,7 +22,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** 3D-Ecommerce-AI website as a side project**
+ 🔭 I’m currently working on **3D-Ecommerce-AI website as a side project**
  
  🌱 I’m currently learning **React-Three-Fiber and OpenAI**
 
