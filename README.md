@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=F75158&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Quan+Nguyen!;" />
 </h1>
 
-<h3 align="center">A Zealous Content Creator turned Full Stack Software Developer</h3>
+<h3 align="center">A Passionate Full Stack Software Developer</h3>
 
 <div align="center"> 
   <a href="mailto:quanzinnguyen@gmail.com">
@@ -22,9 +22,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **3D-Ecommerce-AI website as a side project**
+ 🔭 I’m currently working on **Python Personal Projects**
  
- 🌱 I’m currently learning **React-Three-Fiber and OpenAI**
+ 🌱 I’m currently learning **AI & Machine Learning**
 
  </div>
 
