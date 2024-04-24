@@ -34,10 +34,10 @@
 <br/>
 <div align="center">
     <p>FronEnd - BackEnd</p>
-    <img src="https://skillicons.dev/icons?i=javascript,react,redux,ts,threejs,html,css,tailwind,sass,d3,materialui,electron" />
-    <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,redis,postman,webpack,vite,py,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,redux,ts,threejs,html,css,tailwind,sass,d3,materialui,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,postman,webpack,vite,py,c,cpp" />
     <p>DevOps - Testing</p>
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,prometheus,grafana,jest" />
+    <img src="https://skillicons.dev/icons?i=aws,vercel,kubernetes,docker,prometheus,grafana,jest" />
 </div>
 
 <div align="center">
