@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <p>FronEnd - BackEnd</p>
+    <p>FrontEnd - BackEnd</p>
     <img src="https://skillicons.dev/icons?i=javascript,react,redux,ts,threejs,html,css,tailwind,sass,d3,materialui,nextjs" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,postman,webpack,vite,py,c,cpp" />
     <p>DevOps - Testing</p>
