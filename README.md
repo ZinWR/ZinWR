@@ -22,7 +22,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Python Personal Projects**
+ 🔭 I’m currently working on **Python Products**
  
  🌱 I’m currently learning **AI & Machine Learning**
 
