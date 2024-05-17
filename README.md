@@ -22,9 +22,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Python / NextJS Products**
+ 🔭 I’m currently working on **NextJS Products**
  
- 🌱 I’m currently learning **AI, Machine Learning, Serverless Architecture**
+ 🌱 I’m currently learning **Mobile Development - React Native**
 
  </div>
 
