@@ -24,7 +24,7 @@
  
  🔭 I’m currently working on **NextJS & MERN Products**
  
- 🌱 I’m currently learning **LLMs and Embeddings**
+ 🌱 I’m currently learning **LLMs / Embeddings / RAG **
 
  </div>
 
