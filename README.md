@@ -22,7 +22,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NextJS & MERN Products**
+ 🔭 I’m currently working on **AI Agents & NextJS/MERN Products**
  
  🌱 I’m currently learning **AI technology - LLMs/Embeddings/RAG**
 
