@@ -30,8 +30,8 @@
  
 <br/>
  
-Recent Project(s) - Source Codes pinned:
-- `SnakeAI`: Train an AI agent with Pytorch to play Snake Game!
+Recent Project(s):
+- <p><a href="https://github.com/ZinWR/SnakeAI">SnakeAI</a> - Train an AI agent with Pytorch to play Snake Game!</p>
 
 <br/>
 
