@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=F75158&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Quan+Nguyen!;" />
 </h1>
 
-<h3 align="center">A Full Stack Engineer & Content Creation (15k+ followers)</h3>
+<h3 align="center">A Full Stack Engineer & Content Creator (15k+ followers)</h3>
 
 <div align="center"> 
   <a href="mailto:quanzinnguyen@gmail.com">
