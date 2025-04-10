@@ -31,7 +31,10 @@
 <br/>
  
 Recent Project(s):
-- <p><a href="https://github.com/ZinWR/SnakeAI">SnakeAI</a> - Train an AI agent with Pytorch to play Snake Game!</p>
+- <p><a href="https://github.com/ZinWR/Self-Driving-Car-App">Self-Driving Car App (pending)</a> - Simulate Self-Driving mechanism with Neural Networks & Machine Learning built with VanillaJS.</p>
+- <p><a href="https://github.com/ZinWR/SnakeAI">SnakeAI</a> - Train an AI agent with Pytorch to play Snake Game.</p>
+- <p><a href="https://github.com/ZinWR/CubeGame">NextPrompt</a> - AI Prompt Manager app built with NextJS.</p>
+- <p><a href="https://github.com/ZinWR/next-prompt">CubeGame</a> - Interactive icebreaker games for onboarding engineers in VanillaJS & ThreeJS.</p>
 
 <br/>
 
