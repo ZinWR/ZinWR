@@ -31,6 +31,7 @@
 <br/>
  
 Recent Project(s):
+- <p><a href="https://github.com/ZinWR/Virtual_World">Virtual World (pending)</a> - TBD.</p>
 - <p><a href="https://github.com/ZinWR/Self-Driving-Car-App">Self-Driving Car Simulation</a> - Simulate self-driving mechanism with Neural Networks visualization built with VanillaJS.</p>
 - <p><a href="https://github.com/ZinWR/SnakeAI">SnakeAI</a> - Train an AI agent with Pytorch to play Snake Game.</p>
 - <p><a href="https://github.com/ZinWR/next-prompt">NextPrompt</a> - AI Prompt Manager app built with NextJS.</p>
